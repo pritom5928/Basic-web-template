@@ -1,6 +1,6 @@
 # Basic-web-template
 This web template is build with HTML, CSS , Javascript &amp; JQuery
-#Sliders
+# Sliders
 sliders are added by javascript 
-#Map
+# Map
 Maps on the contact section is added by hpneo gmaps
